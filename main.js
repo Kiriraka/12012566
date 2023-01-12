@@ -53,6 +53,9 @@ function fdivide() {
     var sum = parseInt(num1) / parseInt(num2);
     alert("แสดงผลรวม : " + sum);
 }
+// function alert() {
+
+// }
 
 
 const img = document.createElement("img");
